@@ -5,7 +5,7 @@ Author: Yasin Arfat, Sharmistha Chanda Tista
 
 Venue: 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)-2024,MIST
 
-Paper Link: To be Updated soon when will be in research gate
+Paper Link: https://doi.org/10.1109/ICEEICT62016.2024.10534333
 
 
 # Abstract:
